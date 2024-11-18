@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Main Page</title>
+<title>About</title>
 </head>
 <body>
-<h1>
-Hello World</h1>
-<a href="about.jsp">About</a>
+<h1>Welvome to About Pageof MAven</h1>
 </body>
 </html>
